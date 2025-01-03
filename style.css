@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100..800&display=swap');
+@import url(https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;800;900&display=swap);
+body{
+    font-family: 'Martian Mono';
+    font-family: 'Inter';
+}
+.header{
+    width: 1440px;
+    height: 820px;
+}
+.header__icon{
+    margin-left: 135px;
+    margin-top: 32px;
+}
+.header__Grid{
+    margin-top: 80px;
+    margin-left: 135px;
+    height:606px;
+}
+.header__Grid{
+    display: flex;
+    align-items: center;
+    gap: 64px;
+}
+.Grid_Container h1{
+    width: 570px;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 74.4px;
+    color:  rgba(6, 38, 48, 1);
+    font-family: 'Martian Mono';
+}
+.Grid_Container p{
+    width: 570px;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+}
+.Grid_Container button{
+    width:380px;
+    height:64px;
+    border-radius: 8px;
+    border: 2px solid  rgba(6, 38, 48, 1);
+    color: #062630;
+    font-family: 'Martian Mono';
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 23.4px;
+}
+.Grid_Container img{
+    margin-top:20px;
+}
