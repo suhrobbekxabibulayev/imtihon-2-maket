@@ -53,7 +53,7 @@ body{
 }
 
 
-@media (max-width: 390px) /*mobile*/ {
+@media (max-width: 391px) /*mobile*/ {
     .header__icon {
         margin-left: 2%;
     }
