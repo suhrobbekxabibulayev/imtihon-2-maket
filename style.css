@@ -82,7 +82,7 @@ body{
 
 @media (max-width: 391px) /*mobile*/ {
     .header__icon {
-        margin-left: 3%;
+        margin-left: 2%;
     }
     .header__Grid{
         display: block;
