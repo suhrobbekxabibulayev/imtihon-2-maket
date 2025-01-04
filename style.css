@@ -102,14 +102,10 @@ body{
         line-height: 65px;
         letter-spacing: -2px;
         width: 704px;
+
     }
-    .Grid_Container h1{
-        font-family: 'Martian Mono';
-        font-size: 62px;
-        font-weight: 700;
-        line-height: 74.4px;
-        margin-top: 64px;
-        width: 700px;
+    .list__text{
+        width: 704px;
     }
     .Grid_Container button:hover{
         cursor: pointer;
