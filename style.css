@@ -90,7 +90,9 @@ body{
         margin-top: 100%;
         margin-left: 2%;
     }
-
+    .main{
+        margin-left: 2%;
+    }
     .cnt__img{
         order: 2;
         padding-left: inherit;
