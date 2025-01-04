@@ -84,6 +84,10 @@ body{
     width: 389px;
 }
 @media (max-width: 768px) /*Table*/ {
+    .Fts__list{
+        display: block;
+    }
+
     .Grid_Container h1{
         font-family: 'Martian Mono';
         font-size: 62px;
