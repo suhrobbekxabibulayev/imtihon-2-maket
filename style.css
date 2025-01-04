@@ -85,7 +85,7 @@ body{
 }
 @media (max-width: 768px) /*Table*/ {
     .main_Container{
-        display: block;
+        flex-direction: column;
     }
     .cnt__img{
         order: 2;
