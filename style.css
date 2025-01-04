@@ -88,13 +88,14 @@ body{
         flex-direction: column;
         margin-top: 70%;
     }
+    .main{
+        margin-left: 2%;
+    }
     .cnt__img{
         order: 2;
-        padding-left: 2%;
     }
     .Text__container{
         order: 1;
-        margin-left: 2%;
     }
     .Grid_Container h1{
         font-family: 'Martian Mono';
