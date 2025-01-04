@@ -87,7 +87,6 @@ body{
     .main_Container{
         flex-direction: column;
         margin-top: 70%;
-        margin-right: 1%;
     }
     .cnt__img{
         order: 2;
