@@ -86,10 +86,10 @@ body{
 @media (max-width: 768px) /*Table*/ {
     .main_Container{
         flex-direction: column;
-        margin-top: 90%;
+        margin-top: 100%;
     }
     .main{
-        margin-right: 20%;
+        margin-right: 30%;
     }
     .cnt__img{
         order: 2;
