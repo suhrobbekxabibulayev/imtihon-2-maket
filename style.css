@@ -86,7 +86,7 @@ body{
 @media (max-width: 768px) /*Table*/ {
     .main_Container{
         flex-direction: column;
-        margin-top: 100%;
+        margin-top: 80px;
     }
     .main{
         margin-left: 40%;
