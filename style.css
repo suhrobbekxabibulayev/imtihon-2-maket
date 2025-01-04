@@ -84,7 +84,7 @@ body{
     width: 389px;
 }
 @media (max-width: 768px) /*Table*/ {
-    .Text__container{
+    .main_Container{
         display: block;
     }
 
