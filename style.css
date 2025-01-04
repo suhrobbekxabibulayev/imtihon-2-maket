@@ -103,5 +103,12 @@ body{
         line-height: 28px;
         width: 343px;
     }
-
+    .Grid_Container button{
+        width: 343px;
+        height: 64px;
+        font-family: 'Martian Mono';
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 20.8px;
+    }
 }
