@@ -90,9 +90,11 @@ body{
     }
     .cnt__img{
         order: 2;
+        margin-left: 2%;
     }
     .Text__container{
         order: 1;
+        margin-left: 2%;
     }
     .Grid_Container h1{
         font-family: 'Martian Mono';
