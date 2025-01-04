@@ -60,6 +60,13 @@ body{
         margin-top: 64px;
         width: 704px;
     }
+    .Grid_Container p{
+        font-family: 'Inter';
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 28px;
+        width: 704px;
+    }
     .header__Grid{
         display: block;
     }
