@@ -87,6 +87,7 @@ body{
     .header__Grid{
         display: block;
         margin-left: 2%;
+        margin-top: 4%;
     }
     .Grid_Container h1{
         font-family: 'Martian Mono';
