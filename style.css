@@ -124,7 +124,7 @@ body{
         margin-left: 2%;
     }
     .header__icon {
-        margin-left: 2%;
+        margin-left: inherit;
     }
     .Hero__Images{
         margin-top: 64px;
