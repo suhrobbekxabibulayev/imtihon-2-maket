@@ -56,6 +56,33 @@ body{
     margin-top:20px;
 }
 
+.main_Container{
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    margin-left: 135px;
+}
+
+.Fts__list{
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+.Text__container h1{
+    color: #062630;
+    font-family: 'Martian Mono';
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 65px;
+}
+.list__text{
+    color: #385159;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    width: 389px;
+}
 @media (max-width: 768px) /*Table*/ {
     .Grid_Container h1{
         font-family: 'Martian Mono';
