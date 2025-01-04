@@ -87,7 +87,7 @@ body{
     .main_Container{
         display: block;
     }
-    .cnt__img img{
+    .cnt__img{
         order: 2;
     }
     .Text__container{
