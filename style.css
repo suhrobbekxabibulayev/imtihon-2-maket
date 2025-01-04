@@ -48,6 +48,10 @@ body{
     font-weight: 600;
     line-height: 23.4px;
 }
+.Grid_Container button:hover{
+    cursor: pointer;
+    background: linear-gradient(90deg, #FFE2D1 0%, #FFF5EF 100%);
+}
 .Grid_Container img{
     margin-top:20px;
 }
@@ -60,6 +64,10 @@ body{
         line-height: 74.4px;
         margin-top: 64px;
         width: 700px;
+    }
+    .Grid_Container button:hover{
+        cursor: pointer;
+        background: linear-gradient(90deg, #FFE2D1 0%, #FFF5EF 100%);
     }
     .Grid_Container p{
         font-family: 'Inter';
@@ -95,6 +103,10 @@ body{
         font-weight: 700;
         line-height: 45.6px;
         width: 349px;
+    }
+    .Grid_Container button:hover{
+        cursor: pointer;
+        background: linear-gradient(90deg, #FFE2D1 0%, #FFF5EF 100%);
     }
     .Grid_Container p{
         font-family: 'Inter';
