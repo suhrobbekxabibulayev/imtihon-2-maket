@@ -51,7 +51,7 @@ body{
 .Grid_Container img{
     margin-top:20px;
 }
-@media (max-width: 768px) {
+@media (max-width: 768px) /*Table*/ {
     .Grid_Container h1{
         font-family: 'Martian Mono';
         font-size: 62px;
@@ -69,5 +69,8 @@ body{
     }
     .header__Grid{
         display: block;
+    }
+    .Hero__Images{
+        margin-top: 64px;
     }
 }
