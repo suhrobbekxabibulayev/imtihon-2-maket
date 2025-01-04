@@ -90,7 +90,7 @@ body{
     }
     .cnt__img{
         order: 2;
-        margin-left: 2%;
+        margin-left: 20px;
     }
     .Text__container{
         order: 1;
