@@ -111,4 +111,8 @@ body{
         font-weight: 600;
         line-height: 20.8px;
     }
+    .Grid_Container img {
+        width: 343px;
+        height: 62px;
+    }
 }
