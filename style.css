@@ -61,6 +61,6 @@ body{
         width: 704px;
     }
     .header__Grid{
-        display: none;
+        display: block;
     }
 }
