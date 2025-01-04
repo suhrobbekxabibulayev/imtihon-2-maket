@@ -84,7 +84,7 @@ body{
     width: 389px;
 }
 @media (max-width: 768px) /*Table*/ {
-    .Fts__list{
+    .Text__container{
         display: block;
     }
 
