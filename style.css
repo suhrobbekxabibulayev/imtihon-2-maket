@@ -72,5 +72,6 @@ body{
     }
     .Hero__Images{
         margin-top: 64px;
+        margin-left: 20px;
     }
 }
