@@ -51,6 +51,19 @@ body{
 .Grid_Container img{
     margin-top:20px;
 }
+
+
+@media (max-width: 390px) /*mobile*/ {
+    .header__icon {
+        margin-left: 2%;
+    }
+    .header__Grid{
+        display: block;
+        margin-left: 2%;
+    }
+}
+
+
 @media (max-width: 768px) /*Table*/ {
     .Grid_Container h1{
         font-family: 'Martian Mono';
