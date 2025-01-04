@@ -52,25 +52,6 @@ body{
     margin-top:20px;
 }
 
-
-@media (max-width: 391px) /*mobile*/ {
-    .header__icon {
-        margin-left: 2%;
-    }
-    .header__Grid{
-        display: block;
-        margin-left: 2%;
-    }
-    .Grid_Container h1{
-        font-family: 'Martian Mono';
-        font-size: 29px;
-        font-weight: 700;
-        line-height: 45.6px;
-        width: 343px;
-    }
-}
-
-
 @media (max-width: 768px) /*Table*/ {
     .Grid_Container h1{
         font-family: 'Martian Mono';
@@ -96,5 +77,22 @@ body{
     }
     .Hero__Images{
         margin-top: 64px;
+    }
+}
+
+@media (max-width: 391px) /*mobile*/ {
+    .header__icon {
+        margin-left: 3%;
+    }
+    .header__Grid{
+        display: block;
+        margin-left: 2%;
+    }
+    .Grid_Container h1{
+        font-family: 'Martian Mono';
+        font-size: 29px;
+        font-weight: 700;
+        line-height: 45.6px;
+        width: 343px;
     }
 }
