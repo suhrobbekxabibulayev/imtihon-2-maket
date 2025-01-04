@@ -92,6 +92,7 @@ body{
     .cnt__img{
         order: 2;
         padding-left: inherit;
+        align-items: center;
     }
     .Text__container{
         order: 1;
