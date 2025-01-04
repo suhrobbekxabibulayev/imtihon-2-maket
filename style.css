@@ -87,7 +87,9 @@ body{
     .main_Container{
         display: block;
     }
-
+    .cnt__img img{
+        order: 2;
+    }
     .Grid_Container h1{
         font-family: 'Martian Mono';
         font-size: 62px;
