@@ -90,6 +90,7 @@ body{
     }
     .main{
         margin-left: 2%;
+        height: 693px;
     }
     .cnt__img{
         order: 2;
