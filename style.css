@@ -96,6 +96,11 @@ body{
     }
     .Text__container{
         order: 1;
+        font-family: 'Martian Mono';
+        font-size: 50px;
+        font-weight: 600;
+        line-height: 65px;
+        letter-spacing: -2px;
     }
     .Grid_Container h1{
         font-family: 'Martian Mono';
