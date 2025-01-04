@@ -84,6 +84,9 @@ body{
     width: 389px;
 }
 @media (max-width: 768px) /*Table*/ {
+    .Fts__list{
+        align-items: center;
+    }
     .main_Container{
         display: block;
         flex-direction: column;
