@@ -61,6 +61,12 @@ body{
         display: block;
         margin-left: 2%;
     }
+    .Grid_Container h1{
+        font-family: 'Martian Mono';
+        font-size: 38px;
+        font-weight: 700;
+        line-height: 45.6px;
+    }
 }
 
 
