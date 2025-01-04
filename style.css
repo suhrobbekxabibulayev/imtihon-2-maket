@@ -69,6 +69,7 @@ body{
     }
     .header__Grid{
         display: block;
+        margin-left: 32px;
     }
     .Hero__Images{
         margin-top: 64px;
