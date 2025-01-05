@@ -84,15 +84,18 @@ body{
     width: 389px;
 }
 .main__container{
-    background-image: url(/pages/Technologies\ Logos.svg);
+    margin-top: 120px;
+    height: 520px;
+    background-image: url(/pages/ImageContainer.svg);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: 610px;
     display: flex;
     align-items: center;
-    gap: 80px;
+    gap: 1px;
     margin-left: 132px;
-    position: absolute;
-    z-index: 1;
+}
+.cnt__img2 img{
+    margin-top: 115px;
 }
 .Text__container2 h1{
     color: #062630;
