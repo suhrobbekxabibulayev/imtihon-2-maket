@@ -451,6 +451,18 @@ body{
     .tsmnl img{
         padding-left: 32px;
     }
+    .tsmnl h1{
+        width: 704px;
+        font-family: 'Martian Mono';
+        font-size: 34px;
+        font-weight: 600;
+        line-height: 44.2px;
+        letter-spacing: -1px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
     .f__div{
         margin-top: 544px;
     }
