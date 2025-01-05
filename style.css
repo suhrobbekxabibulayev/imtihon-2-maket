@@ -446,7 +446,7 @@ body{
         width: 704px;
         display: grid;
         grid-template-columns: 1fr 1fr;
-        gap: 2px;
+        gap: 24px;
     }
     .reading_j{
         display: none;
