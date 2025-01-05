@@ -424,6 +424,11 @@ body{
     padding-left: 135px;
 }
 @media (max-width: 768px) /*Table*/ {
+    .opition{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 24px;
+    }
     .reading_j{
         display: none;
     }
