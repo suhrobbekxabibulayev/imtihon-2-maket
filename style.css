@@ -199,6 +199,7 @@ body{
 
 @media (max-width: 391px) /*mobile*/ {
     .main__container{
+        height: 318px;
         margin-top: 64px;
         background-size: 343px;
         background-position: bottom 40px;
