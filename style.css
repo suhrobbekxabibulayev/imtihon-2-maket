@@ -432,6 +432,7 @@ body{
         margin-top: 544px;
     }
     .opition{
+        width: 704px;
         display: grid;
         grid-template-columns: 1fr 1fr;
         gap: 2px;
