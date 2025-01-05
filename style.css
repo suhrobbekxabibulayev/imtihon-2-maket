@@ -142,6 +142,17 @@ body{
         width: 343px;
         height: 318px;
     }
+    .Text__container h1{
+        font-family: 'Martian Mono';
+        font-size: 34px;
+        font-weight: 600;
+        line-height: 44.2px;
+        letter-spacing: -2px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
     .header__icon {
         margin-left: 2%;
     }
