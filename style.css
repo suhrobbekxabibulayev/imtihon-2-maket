@@ -130,7 +130,7 @@ body{
         margin-left: 2%;
     }
     .header__icon {
-        margin-left: inherit;
+        margin-left: inherit; 
     }
     .Hero__Images{
         margin-top: 64px;
@@ -138,6 +138,10 @@ body{
 }
 
 @media (max-width: 391px) /*mobile*/ {
+    .cnt__img img {
+        width: 343px;
+        height: 318px;
+    }
     .header__icon {
         margin-left: 2%;
     }
