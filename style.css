@@ -430,6 +430,8 @@ body{
         line-height: 12px;
     }
     .opt_detls{
+        width: 292px;
+        height: 215px;
         padding-top: 12px;
     }
     .opt_detls h1{
