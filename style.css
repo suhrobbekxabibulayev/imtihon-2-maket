@@ -546,11 +546,11 @@ body{
         width: 301px;
     }
     .header__icon {
-        margin-left: 2%;
+        margin-left: 3%;
     }
     .header__Grid{
         display: block;
-        margin-left: 2%;
+        margin-left: 3%;
         margin-top: 4%;
     }
     .Grid_Container h1{
