@@ -424,10 +424,6 @@ body{
     padding-left: 135px;
 }
 @media (max-width: 768px) /*Table*/ {
-    .f__div{
-        width: 768px;
-        height: 505px;
-    }
     .mcc h1{
         font-family: 'Martian Mono';
         font-size: 50px;
@@ -490,7 +486,9 @@ body{
         padding-left: 2px;
     }
     .f__div{
-        margin-top: 544px;
+        width: 768px;
+        height: 505px;
+        margin-top: 344px;
     }
     .opition{
         width: 704px;
