@@ -424,6 +424,10 @@ body{
     padding-left: 135px;
 }
 @media (max-width: 768px) /*Table*/ {
+    .f__div{
+        width: 768px;
+        height: 505px;
+    }
     .mcc h1{
         font-family: 'Martian Mono';
         font-size: 50px;
