@@ -153,6 +153,16 @@ body{
         text-decoration-skip-ink: none;
 
     }
+    .list__check p{
+        font-family: 'Inter';
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 28px;
+        letter-spacing: -0.5px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    }
     .header__icon {
         margin-left: 2%;
     }
