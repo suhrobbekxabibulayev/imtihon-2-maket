@@ -424,6 +424,10 @@ body{
     padding-left: 135px;
 }
 @media (max-width: 768px) /*Table*/ {
+    .option__card{
+        width: 340px;
+        height: 358px;
+    }
     .opt_detls{
         padding-top: 12px;
         line-height: 12px;
