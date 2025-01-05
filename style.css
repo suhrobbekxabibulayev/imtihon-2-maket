@@ -424,6 +424,17 @@ body{
     padding-left: 135px;
 }
 @media (max-width: 768px) /*Table*/ {
+    .opt_detls h1{
+        font-family: 'Martian Mono';
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 26.4px;
+        letter-spacing: -1px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
     .tsmnl{
         margin-top: 590px;
         margin-left: 2%;
