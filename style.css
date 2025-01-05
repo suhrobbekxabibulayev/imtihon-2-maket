@@ -426,7 +426,7 @@ body{
 @media (max-width: 768px) /*Table*/ {
     .option__card{
         width: 340px;
-        height: 358px;
+        height: 458px;
         line-height: 12px;
     }
     .opt_detls{
