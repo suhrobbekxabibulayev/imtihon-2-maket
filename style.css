@@ -425,7 +425,7 @@ body{
 }
 @media (max-width: 768px) /*Table*/ {
     .mcc{
-        margin-left: 9px;
+        padding-left: 9px;
     }
     .mcc h1{
         font-family: 'Martian Mono';
