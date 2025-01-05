@@ -471,7 +471,7 @@ body{
         text-align: left;
         text-underline-position: from-font;
         text-decoration-skip-ink: none;
-
+        padding-left: 2px;
     }
     .f__div{
         margin-top: 544px;
