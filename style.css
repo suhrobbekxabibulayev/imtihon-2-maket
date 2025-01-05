@@ -153,6 +153,48 @@ body{
     padding-top: 80px;
     padding-left: 100px;
 }
+.membership{
+    margin-left: 235px;
+    width: 970px;
+    height: 519px;
+    padding-top: 120px;
+}
+.membership h1{ 
+    color: #062630;
+    font-family: 'Martian Mono';
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 65px;
+    letter-spacing: -2px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.option__card{
+    width:286px;
+    height:358px;
+    border-radius: 8px;
+    border: 1px solid  #E6E1DF;
+    background-color: #FFFFFF;
+}
+.opt_detls{
+    width:238px;
+    height:215px;
+    padding-left: 20px;
+    padding-top: 20px;
+    color: #062630;
+}
+.opt_detls h1{
+    font-family: 'Martian Mono';
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 26.4px;
+    letter-spacing: -1px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
 @media (max-width: 768px) /*Table*/ {
     .main__container{
         margin-left: 12px;
