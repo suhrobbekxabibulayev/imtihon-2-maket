@@ -132,6 +132,9 @@ body{
     text-decoration-skip-ink: none;
 }
 @media (max-width: 768px) /*Table*/ {
+    .main__container{
+        display: block;
+    }
     .Fts__list{
         align-items: center;
     }
