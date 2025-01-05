@@ -138,7 +138,6 @@ body{
         background-image: url(/pages/ImageContainer.svg);
         background-position: bottom, 12px right;
         display: block;
-        flex-direction: column;
     }
     .Fts__list{
         align-items: center;
