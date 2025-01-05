@@ -198,6 +198,18 @@ body{
 }
 
 @media (max-width: 391px) /*mobile*/ {
+    .Text__container2 p{
+        width: 343px;
+        font-family: 'Inter';
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 28px;
+        letter-spacing: -0.5px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
     .Text__container2 h1{
         width: 343px;
         font-family: 'Martian Mono';
