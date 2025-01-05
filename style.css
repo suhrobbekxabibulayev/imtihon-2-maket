@@ -198,10 +198,8 @@ body{
 }
 
 @media (max-width: 391px) /*mobile*/ {
-    .Text__container2{
-        width: 343px;
-    }
     .Text__container2 h1{
+        width: 343px;
         font-family: 'Martian Mono';
         font-size: 34px;
         font-weight: 600;
