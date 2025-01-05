@@ -198,6 +198,9 @@ body{
 }
 
 @media (max-width: 391px) /*mobile*/ {
+    .main__container{
+        margin-top: 64px;
+    }
     .Text__container2 p{
         width: 343px;
         font-family: 'Inter';
