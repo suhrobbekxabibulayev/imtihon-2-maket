@@ -438,7 +438,7 @@ body{
         height: 215px;
         padding-top: 12px;
     }
-    .opt_detls h1{
+    .option__card h1{
         font-family: 'Martian Mono';
         font-size: 10px;
         font-weight: 600;
