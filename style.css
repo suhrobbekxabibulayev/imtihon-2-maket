@@ -424,6 +424,9 @@ body{
     padding-left: 135px;
 }
 @media (max-width: 768px) /*Table*/ {
+    .reading_j{
+        display: none;
+    }
     .membership{
         margin-left: 2%;
     }
