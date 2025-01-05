@@ -425,6 +425,8 @@ body{
 }
 @media (max-width: 768px) /*Table*/ {
     .mcc{
+        width: 704px;
+        height: 307px;
         padding-left: 9px;
     }
     .mcc h1{
