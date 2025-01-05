@@ -424,12 +424,10 @@ body{
     padding-left: 135px;
 }
 @media (max-width: 768px) /*Table*/ {
-    .price p{
-        padding-top: 12px;
-    }
     .option__card{
         width: 340px;
         height: 358px;
+        line-height: 12px;
     }
     .opt_detls{
         padding-top: 12px;
@@ -438,7 +436,6 @@ body{
         font-family: 'Martian Mono';
         font-size: 24px;
         font-weight: 600;
-        line-height: 12px;
     }
     .tsmnl{
         margin-top: 590px;
