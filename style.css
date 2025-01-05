@@ -139,6 +139,9 @@ body{
         background-position: bottom 90px left;
         display: block;
     }
+    .cnt__img2 img{
+        margin-top: 365px;
+    }
     .Fts__list{
         align-items: center;
     }
