@@ -434,7 +434,7 @@ body{
     .opition{
         display: grid;
         grid-template-columns: 1fr 1fr;
-        gap: 10px;
+        margin-left: 24px;
     }
     .reading_j{
         display: none;
