@@ -424,6 +424,9 @@ body{
     padding-left: 135px;
 }
 @media (max-width: 768px) /*Table*/ {
+    .tsmnl{
+        margin-top: 320px;
+    }
     .f__div{
         margin-top: 544px;
     }
