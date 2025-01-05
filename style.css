@@ -424,6 +424,10 @@ body{
     padding-left: 135px;
 }
 @media (max-width: 768px) /*Table*/ {
+    .option__card2{
+        width: 340px;
+        height: 498px;
+    }
     .option__card{
         width: 340px;
         height: 498px;
