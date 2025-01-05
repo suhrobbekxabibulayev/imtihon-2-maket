@@ -201,7 +201,7 @@ body{
     .main__container{
         margin-top: 64px;
         background-size: 343px;
-        background-position: bottom;
+        background-position: bottom 12px;
     }
     .Text__container2 p{
         color: #385159;
