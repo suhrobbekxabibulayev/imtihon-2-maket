@@ -424,6 +424,9 @@ body{
     padding-left: 135px;
 }
 @media (max-width: 768px) /*Table*/ {
+    .opt_detls{
+        margin-top: 24px;
+    }
     .opt_detls h1{
         font-family: 'Martian Mono';
         font-size: 24px;
