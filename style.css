@@ -83,6 +83,51 @@ body{
     line-height: 28px;
     width: 389px;
 }
+.main__container{
+    background-image: url(/pages/Technologies\ Logos.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    margin-left: 132px;
+    position: absolute;
+    z-index: 1;
+}
+.Text__container2 h1{
+    color: #062630;
+    font-family: 'Martian Mono';
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 65px;
+    letter-spacing: -2px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    width: 534px;
+}
+.Text__container2 p{
+    color: #385159;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    width: 430px;
+}
+.Text__container2 strong{
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
 @media (max-width: 768px) /*Table*/ {
     .Fts__list{
         align-items: center;
