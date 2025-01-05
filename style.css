@@ -131,6 +131,28 @@ body{
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
 }
+.reading_j{
+    height: 454px;
+    background: var(--colors-neutral-50, rgba(250, 245, 243, 1));
+    padding-left: 135px;
+    margin-top: 120px;
+}
+.reading_j h1{
+    font-family: 'Martian Mono';
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+    padding-left: 300px;
+    text-align: center;
+    text-decoration-skip-ink: none;  
+    padding-top: 80px;  
+    width: 572px;
+    color: #062630;
+}
+.reading_j img{
+    padding-top: 80px;
+    padding-left: 100px;
+}
 @media (max-width: 768px) /*Table*/ {
     .main__container{
         margin-left: 12px;
@@ -154,7 +176,7 @@ body{
         margin-left: 2%;
     }
     .main{
-        margin-left: 3%;
+        margin-left: 135px;
     }
     .cnt__img{
         order: 2;
