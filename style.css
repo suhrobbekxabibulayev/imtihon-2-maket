@@ -424,6 +424,7 @@ body{
     padding-left: 135px;
 }
 @media (max-width: 768px) /*Table*/ {
+
     .option__card2{
         width: 340px;
         height: 498px;
@@ -444,7 +445,7 @@ body{
         font-weight: 600;
     }
     .tsmnl{
-        margin-top: 590px;
+        margin-top: 670px;
         margin-left: 2%;
     }
     .f__div{
