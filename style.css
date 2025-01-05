@@ -584,6 +584,9 @@ body{
 }
 
 @media (max-width: 391px) /*mobile*/ {
+    .opition{
+        display: block;
+    }
     .main__container{
         margin-top: 64px;
         background-size: 343px;
