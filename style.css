@@ -198,6 +198,19 @@ body{
 }
 
 @media (max-width: 391px) /*mobile*/ {
+    .Text__container2{
+        width: 343px;
+    }
+    .Text__container2 h1{
+        font-family: 'Martian Mono';
+        font-size: 34px;
+        font-weight: 600;
+        line-height: 44.2px;
+        letter-spacing: -2px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    }
     .cnt__img img {
         width: 343px;
         height: 318px;
