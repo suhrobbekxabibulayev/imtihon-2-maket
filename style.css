@@ -133,6 +133,7 @@ body{
 }
 @media (max-width: 768px) /*Table*/ {
     .main__container{
+        height: 931px;
         background-image: url(/pages/ImageContainer.svg);
         background-repeat: no-repeat;
         display: block;
