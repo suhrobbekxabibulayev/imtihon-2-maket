@@ -587,4 +587,7 @@ body{
         width: 343px;
         height: 371.89px;
     }
+    .Hero__Images{
+        margin-top: 64px;
+    }
 }
