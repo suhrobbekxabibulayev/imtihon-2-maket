@@ -135,7 +135,6 @@ body{
     .main__container{
         height: 931px;
         background-image: url(/pages/ImageContainer.svg);
-        background-repeat: no-repeat;
         display: block;
     }
     .Fts__list{
