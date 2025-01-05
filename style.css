@@ -427,7 +427,7 @@ body{
     .mcc{
         width: 704px;
         height: 307px;
-        padding-left: 9px;
+        padding-left: 100px;
     }
     .mcc h1{
         font-family: 'Martian Mono';
